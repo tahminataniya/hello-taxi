@@ -1,0 +1,36 @@
+nipro psd:
+html,css,boostrap,js
+
+font-family:----
+font-family: 'Poppins', sans-serif;
+
+fontawsam-
+
+color:-----
+yellow:   #ffd60e;
+black: #0000000
+asah: rgba(43,47,54,0.90);
+
+
+padding:---------
+header:
+        xxl/xl/lg           md            sm/col
+                   
+slider:
+                       
+
+feature:
+          
+ 
+
+
+
+font-size:-----
+header:
+     xxl/xl/lg            md             sm/col
+menu  
+
+slider:         
+
+
+feature:

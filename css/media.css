@@ -1,0 +1,585 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+      /*header start*/
+    .logo img {
+          width: 80%;
+    }
+   .menu ul li a {
+      padding: 0;
+      margin: 7px 5px 0;
+      font-size: 17px;
+           
+    }
+    /*header end*/
+    /*banner start*/
+    .banner {
+         padding-bottom: 50px;
+    }
+    .slider {
+        margin-top: 40px;
+        padding: 0 3px;
+    }
+    .s_h1 {
+        font-size: 40px;
+       
+    }
+    .s_h2 {
+       margin: 13px 0;
+       font-size: 17px;
+        
+    }
+    .s_p {
+          line-height: 24px;
+    }
+    .common_button {
+          width: 65%;
+    }
+    .carousel_ind {
+          top: 295px;
+    }
+   .banner_img {
+      margin-right: 50px;
+   }
+   /*banner end*/
+    /*about start*/
+    .about{
+       padding: 40px 0 60px;
+    }
+    .common_h1 {
+      font-size: 30px;
+        
+    }
+    .common_shape {
+        margin: 8px auto;
+        width: 30%;
+        height: 2px;
+        
+    }
+     .about_img {
+           margin: 30px 0 0px 25px;
+    }
+   .about_text {
+      padding: 0 10px;
+      text-align: center;
+      margin-top: 40px;
+    }
+    .about_h1 {
+       font-size: 19px;
+       
+    }
+   .p_1 {
+        margin: 15px 0;
+        line-height: 25px;
+    }
+    .p_2 {
+        line-height: 25px;
+    }
+   /*about end*/
+    /*service start*/
+   .service{
+      padding: 40px 0 60px;
+   }
+    .s_pera {
+        padding: 0 10px;
+    }
+     .single_item {
+       padding: 35px 15px;
+       margin-top: 40px;
+    }
+    .item_h2 {
+        margin: 15px 0;
+        font-size: 19px;
+    }
+   /*service end*/
+   /*number start*/
+   .number {
+      padding: 20px 0;
+   }
+    .number_item {
+        margin-top: 20px;
+    }
+    .n_h2 {
+        margin: 8px 0 8px;
+        font-size: 27px;
+    }
+    .n_p {
+        font-size: 16px;
+    }
+   /*number end*/
+    /*feature start*/
+    .feature{
+      padding: 40px 0 60px;
+    }
+    .f_item {
+         padding: 35px 26px;
+         margin-top: 40px;
+    }
+    .f_h2 {
+          margin: 10px 0;
+          font-size: 18px;
+          line-height: 24px;
+      }
+    .f_p {
+        line-height: 24px;
+    }
+    /*feature end*/
+    /*contact start*/
+   .contact{
+         padding: 40px 0 60px;
+    }
+    .contact_map {
+        margin-top: 40px;
+    }
+   .contact_form {
+        margin-top: 40px;
+        padding: 30px 0 30px;
+    }
+    .form_common {
+        margin: 20px 15px 0;
+    }
+    .menu_item a{
+        width: 80px;
+       margin: 0 7px;
+    }
+    .contact_h2 {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .contact_button {
+        margin-top: 20px;
+    }
+    .c_btn {
+         width: 90%;
+    }
+    .contact_input {
+        padding: 10px 15px;
+    }
+    .c_iframe {
+        height: 400px;
+    }
+    /*contact end*/
+    /*footer top start*/
+    .footer_top{
+        padding: 40px 0 50px;
+    }
+    .footer_text {
+        padding: 0 15px;
+        text-align: center;
+    }
+     .footer_h3 {
+       text-align: center;
+       font-size: 20px;
+    }
+    .footer_icon {
+        text-align: center;
+    }
+    .footer_icon a i {
+         margin-right: 20px;
+    }
+    .footer_link {
+         padding: 0 16px;
+         margin-top: 30px;
+    }
+    .footer_ad {
+       padding: 0 30px;
+       text-align: center;
+        margin-top: 30px;
+    }
+    .footer_ad p {
+        margin: 15px 0;
+        line-height: 24px;
+    }
+    .address li {
+      font-size: 14px;
+    }
+     .footer_p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    /*footer top end*/
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*header start*/
+  .logo img {
+      width: 80%;
+   }
+    .menu ul li a {
+        padding: 0;
+        margin: 7px 5px 0;
+        font-size: 17px;
+       
+    }
+   /*header end*/
+      /*banner start*/
+    .banner {
+          padding-bottom: 80px;
+      }
+    .slider {
+        margin-top: 40px;
+        padding: 0 30px;
+    }
+    .s_h1 {
+        font-size: 45px;
+       
+    }
+    .s_h2 {
+       margin: 13px 0;
+       font-size: 24px;
+        
+    }
+    .s_p {
+          line-height: 24px;
+    }
+    .common_button {
+        width: 34%;
+    }
+    .carousel_ind {
+          top: 295px;
+    }
+   .banner_img {
+      margin-right: 50px;
+   }
+   /*banner end*/
+   /*about start*/
+    .about{
+       padding: 50px 0 70px;
+    }
+    .common_h1 {
+        font-size: 33px;
+        
+    }
+    .common_shape {
+        margin: 8px auto;
+        width: 15%;
+        height: 2px;
+        
+    }
+    .about_img {
+       margin: 35px 0 0px 25px;
+    }
+   .about_text {
+        padding: 0 14px;
+        text-align: center;
+         margin-top: 45px;
+    }
+   .p_1 {
+        margin: 15px 0;
+        line-height: 25px;
+    }
+    .p_2 {
+        line-height: 25px;
+    }
+   /*about end*/
+    /*service start*/
+   .service{
+      padding: 50px 0 70px;
+   }
+   .s_pera {
+         padding: 0 5px;
+    }
+    
+    .single_item {
+       padding: 35px 15px;
+       margin-top: 40px;
+    }
+    .item_h2 {
+        margin: 15px 0;
+        font-size: 19px;
+    }
+
+   /*service end*/
+   /*number start*/
+   .number {
+      padding: 20px 0;
+   }
+   .n_h2 {
+      margin: 10px 0 10px;
+      font-size: 35px;
+    }
+    .n_p {
+        font-size: 19px;
+    }
+   /*number end*/
+   /*feature start*/
+    .feature{
+       padding: 50px 0 70px;
+    }
+     .f_item {
+         margin-top: 40px;
+    }
+    .f_h2 {
+        margin: 10px 0;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    /*feature end*/
+    /*contact start*/
+   .contact{
+         padding: 50px 0 70px;
+    }
+     .contact_map {
+        margin-top: 40px;
+    }
+   .contact_form {
+        margin-top: 40px;
+    }
+    .menu_item a{
+          width: 100px;
+         margin: 0 15px;
+    }
+    .contact_h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .c_btn {
+          width: 70%;
+    }
+    .contact_input {
+        padding: 10px 15px;
+    }
+    .c_iframe {
+        height: 400px;
+    }
+    /*contact end*/
+    /*footer top start*/
+    .footer_top{
+        padding: 50px 0 50px;
+    }
+      .footer_text {
+        padding: 0 80px;
+        text-align: center;
+    }
+    .footer_h3 {
+       font-size: 20px;
+    }
+    .footer_icon {
+        text-align: center;
+    }
+    .footer_icon a i {
+         margin-right: 20px;
+    }
+    .footer_link {
+        margin-top: 30px;
+    }
+    .footer_ad {
+        margin-top: 30px;
+    }
+    .footer_ad p {
+        margin: 15px 0;
+        line-height: 24px;
+    }
+    .address li {
+      font-size: 14px;
+    }
+    .footer_p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    /*footer top end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /*header start*/
+    .menu ul li a {
+        padding: 0;
+        margin: 7px 5px 0;
+        font-size: 17px;
+       
+    }
+   /*header end*/
+   /*banner start*/
+    .banner {
+          padding-bottom: 80px;
+    }
+    .slider {
+        margin-top: 40px;
+        padding: 0 60px;
+    }
+    .s_h1 {
+        font-size: 50px;
+       
+    }
+    .s_h2 {
+        margin: 15px 0;
+        font-size: 25px;
+        
+    }
+    .s_p {
+          line-height: 25px;
+    }
+    .common_button {
+            width: 34%;
+    }
+    .carousel_ind {
+          top: 280px;
+    }
+   .banner_img {
+      margin-right: 50px;
+   }
+   /*banner end*/
+   /*about start*/
+    .about{
+       padding: 60px 0 80px;
+    }
+    .common_h1 {
+       font-size: 35px;
+        
+    }
+    .common_shape {
+        width: 15%;
+        height: 2px;
+        
+    }
+    .about_img {
+       margin: 50px 0 0px 25px;
+    }
+   .about_text {
+        padding: 0 60px;
+        text-align: center;
+        margin-top: 50px;
+    }
+   /*about end*/
+   /*service start*/
+   .service{
+      padding: 60px 0 80px;
+   }
+    .s_pera {
+        padding: 0 30px;
+    }
+    .single_item {
+      margin-top: 50px;
+    }
+   /*service end*/
+   /*number start*/
+   .number {
+      padding: 20px 0;
+
+   }
+   .n_h2 {
+      margin: 10px 0 10px;
+      font-size: 35px;
+    }
+    .n_p {
+        font-size: 19px;
+    }
+   /*number end*/
+   /*feature start*/
+    .feature{
+      padding: 60px 0 80px;
+    }
+    .f_item {
+        margin-top: 50px;
+    }
+    /*feature end*/
+    /*contact start*/
+   .contact{
+        padding: 60px 0 80px;
+    }
+    .contact_map {
+        margin-top: 40px;
+    }
+   .contact_form {
+        margin-top: 40px;
+    }
+    .menu_item a{
+          width: 100px;
+          margin: 0 4px;
+    }
+    .contact_h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .c_btn {
+          width: 70%;
+    }
+    .contact_input {
+        padding: 10px 15px;
+    }
+    .c_iframe {
+        height: 400px;
+    }
+    /*contact end*/
+     /*footer top start*/
+    .footer_top{
+        padding: 60px 0 80px;
+    }
+    .footer_text {
+        padding: 0 80px;
+        text-align: center;
+    }
+    .footer_h3 {
+       font-size: 20px;
+    }
+    .footer_icon {
+        text-align: center;
+    }
+    .footer_icon a i {
+         margin-right: 20px;
+    }
+    .footer_link {
+        margin-top: 30px;
+    }
+    .footer_ad {
+        margin-top: 30px;
+    }
+    .footer_ad p {
+        margin: 15px 0;
+        line-height: 24px;
+    }
+    /*footer top end*/
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*banner start*/
+    .slider {
+        margin-top: 80px;
+        padding: 0 13px;
+    }
+    .s_h2 {
+          margin: 20px 0;
+          font-weight: 500;
+          font-size: 25px;
+          color: #000000;
+      }
+    /*banner end*/
+    /*about start*/
+    .about_img {
+       margin: 60px 0 0px 20px;
+    }
+    /*service start*/
+    .single_item {
+       padding: 35px 15px;
+    }
+    .item_h2 {
+        margin: 20px 0;
+        font-size: 19px;
+    }
+
+    /*service end*/
+    /*feature start*/
+    .f_h2 {
+        font-size: 18px;
+    }
+    /*contact start*/
+    .menu_item a{
+          margin: 0 15px;
+    }
+
+}
+  /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
